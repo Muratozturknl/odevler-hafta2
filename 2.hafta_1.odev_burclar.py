@@ -10,7 +10,7 @@ print(" Doğum Tarih Bilgilerini Giriniz",
       "\nÖrn: mayıs 15 olan tarih için 515","\n")
 while True:
     
-    tarih=(input("Ay ve günü bitişik yazınızGG-AA(çıkış:q): "))
+    tarih=(input("Ay ve günü bitişik yazınızA-GG(çıkış:q): "))
     if tarih=="q":
         break
     
